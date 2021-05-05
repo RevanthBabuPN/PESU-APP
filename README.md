@@ -6,7 +6,7 @@ This is a complete web application developed using Flask for the backend and MyS
 
 Open a terminal on Linux/WSL. Run the following:
 ```bash
-git clone https://github.com/sreyansb/PESU_APP.git
+git clone https://github.com/RevanthBabuPN/PESU-APP.git
 cd PESU_APP
 python mainapp.py
 ```
